@@ -1,0 +1,17 @@
+.Card{
+  padding: 0.8rem;
+  border: 2px solid #0e0e0e;
+  border-radius: 8px;
+  width: 150px;
+  margin: 2rem;
+  box-shadow: 7px 10px 12px -5px rgba(0,0,0,0.4)
+}
+
+.Card h3{
+  padding-bottom: 1rem;
+  border-bottom: 1px solid black;
+}
+
+.Card-image{
+  font-size: 5rem;
+}
