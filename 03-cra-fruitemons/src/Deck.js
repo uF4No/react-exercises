@@ -5,9 +5,6 @@ import Card from './Card'
 
 class Deck extends Component{
   render(){
-    const cardss = this.props.cards;
-    console.log(cardss)
-
     return (
       <div className="Deck">
         <h3>This is a Deck with {this.props.totalxp} experience</h3>

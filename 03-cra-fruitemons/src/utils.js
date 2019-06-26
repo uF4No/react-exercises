@@ -1,6 +1,3 @@
-
-//import * as fruits from './fruitemon.json'
-
 function shuffleFruitemons(){
   const fruitemons = [
     {"name":"kiwi", "power": 3, "experience": 12, "image":"🥝"},
